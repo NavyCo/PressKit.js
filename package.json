@@ -1,0 +1,29 @@
+{
+  "name": "presskit.js",
+  "description": "✨A JS script that generates a well-designed press kit page 📰for your creative project ✨",
+  "version": "1",
+  "keywords": [
+    "presskit",
+    "generator"
+  ],
+  "maintainers": [
+    {
+      "name": "Dror Ayalon",
+      "email": "",
+      "web": "https://github.com/dodiku"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/dodiku/PressKit.js.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT",
+      "url": "https://github.com/Naereen/StrapDown.js/blob/master/LICENSE"
+    }
+  ],
+  "homepage": "https://github.com/dodiku/PressKit.js"
+}
